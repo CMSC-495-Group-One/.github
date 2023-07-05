@@ -6,13 +6,13 @@ Welcome to the Task Management project. This README will guide you on how to set
 
 Our team uses a Jira Kanban Board to manage and track the progress of our work. 
 
-*[Placeholder: Add specific instructions or guidelines on how to access your board and any other relevant details.]*
+[Jira Board](https://cmsc495group1.atlassian.net/jira/software/projects/CMSC495/boards/1)
 
 ## Slack Channel
 
 We use Slack for our team communication. 
 
-*[Placeholder: Add specific instructions on how to join your Slack channel and any etiquette/rules for communication in the channel.]*
+[Slack Group](https://app.slack.com/client/T05DE2PNXNV/C05CLT6MULF)
 
 ## Setting Up Postman
 
