@@ -50,7 +50,3 @@ This is for your convenience. You won’t need to copy and paste it anywhere.
 
 - If you receive a status `401`, the API is properly working. You just need a new token. See **Obtaining an authentication token** section.
 - If you receive a status `500`, there was an internal server error. Attempt to create a new user using the `/v1/auth/signup` endpoint. If you receive a status `2xx`, you can sign in using step 1 in **Obtaining an authentication token** section. Otherwise, there is a bug.
-
----
-
-Feel free to contribute to this project and help us improve. Thank you for using our Task Management API!
