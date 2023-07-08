@@ -13,3 +13,6 @@ Our team uses a Jira Kanban Board to manage and track the progress of our work.
 We use Slack for our team communication. 
 
 [Slack Group](https://app.slack.com/client/T05DE2PNXNV/C05CLT6MULF)
+
+<!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->
