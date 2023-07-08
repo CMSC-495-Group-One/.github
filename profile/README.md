@@ -15,4 +15,7 @@ We use Slack for our team communication.
 [Slack Group](https://app.slack.com/client/T05DE2PNXNV/C05CLT6MULF)
 
 <!-- CONTRIBUTORS_START -->
+## Contributors
+
+* [@ConnorDBurge](https://github.com/ConnorDBurge) - 0 PRs merged, 135 lines of code
 <!-- CONTRIBUTORS_END -->
